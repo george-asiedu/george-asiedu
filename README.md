@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @george-asiedu
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...web development
+- 🌱 I’m a frontent web developer
+- I am currently upskilling in Angular
+- I have skills in HTML, CSS, JS, TS, React, Tailwind, and Angular
 - 💞️ I’m looking to collaborate on ...web development and other programming languages
 - 📫 How to reach me ...asiedug41@gmail.com
 
